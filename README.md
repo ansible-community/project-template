@@ -8,5 +8,9 @@ This template gives you the basic recommended (and in some instances required) f
 
 # Template structure
 This template includes sample files for the following:
-- README.md - This file. It should describe the project and list the documentation site, when available, and how to reach the project team (Matrix room, if available and Ansible forum tags).
+- README.md - This file. It should describe the project and list the documentation site, when available, and how to reach the project team (Matrix room, if available and Ansible forum tags). 
+- LICENSE.md - The project license. We recommend GPLv3
+- CONTRIBUTE.md - The basics for contributing to your project
+- SECURITY.md - How to report security issues for your project
 
+- 
