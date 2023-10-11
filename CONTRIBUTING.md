@@ -21,7 +21,7 @@ Open a GitHub issue to report bugs or request features.
 
 ## Governance
 
-The Ansible TBD project uses the following governance model:
+The Ansible <projectname> uses the following governance model:
 
 ---
 - A patch SHOULD have a minimum of 2 reviews from Members before it is merged.

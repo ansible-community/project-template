@@ -1,0 +1,16 @@
+---
+site_name: Ansible <Projectname> documentation
+site_url: https://ansible.readthedocs.io/<projectname>
+repo_url: https://github.com/ansible/<projectname>
+edit_uri: blob/main/docs/
+docs_dir: docs
+strict: true
+use_directory_urls: false
+
+theme:
+  name: "ansible"
+
+nav:
+  - index.md
+
+#see mkdocs for other optional extensions
