@@ -1,4 +1,3 @@
 # PROJECTNAME $version Roadmap
 
-note to developers - this should be a bullet list or other simple list of the
- features or changes expected in the next release.
+Roadmaps should be a bulleted, or other simple, list of features or changes expected in the next release.

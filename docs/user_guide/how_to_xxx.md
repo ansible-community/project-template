@@ -1,4 +1,4 @@
-# How to xxx
+# Completing a project use case
 
 note to developer - your project user guide likely has multiple .md files.
 Each file should cover one major use case or 'user story' for your project.
