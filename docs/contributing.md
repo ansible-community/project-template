@@ -6,7 +6,7 @@ This project follows the [Ansible Code of Conduct](https://docs.ansible.com/ansi
 
 ## Contributor guidelines
 
-note to developer - this should include more detail, if necessary, than the repo CONTRIBUTING.md file.
+This should include more detail, if necessary, than the repo CONTRIBUTING.md file.
 
 ## Communicating with the team
 
