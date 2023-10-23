@@ -1,6 +1,6 @@
 # Installing PROJECTNAME
 
-Edit or remove any sections that don't make sense for your project.
+Edit or remove any sections that do not make sense for your project.
 
 ## Install with `pip`
 
