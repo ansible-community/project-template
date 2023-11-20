@@ -1,1 +1,2 @@
-This file lists how to report potential security problems with your project.
+Please report any security concerns on this repository content to security@ansible.com.
+
