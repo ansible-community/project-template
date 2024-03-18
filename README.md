@@ -34,11 +34,25 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
 
 ## Code of Conduct
 
-> If your project doesn't belong to GitHub orgs controlleb by Red Hat, refer to a CoC violation complaint raising mechanism relevant to your project.
+> If your project doesn't belong to GitHub orgs controlled by Red Hat, refer to a CoC violation complaint raising mechanism relevant to your project.
 
 We follow the [Ansible Code of Conduct](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html) in all our interactions within this project.
 
 If you encounter abusive behavior violating the [Ansible Code of Conduct](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html), please refer to the [policy violations](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html#policy-violations) section of the Code of Conduct for information on how to raise a complaint.
+
+## Contributing to this project
+
+### How to open an issue
+
+If you want to report a bug or request a new feature, please:
+1. Search in the [issues](https://github.com/ORG/REPO/issues) for similar reports/requests.
+2. If there are already no such issues, open a new one by clicking the `New issue` button.
+
+### Contributor guidelines
+
+> Use one source of truth: it can be a contributing section on project docsite or CONTRIBUTING.md. If you have a docsite, use it.
+
+To learn how to contribute to this project, see the [Contributor guidelines](https://link-to-docsite-or-contributor.md).
 
 ## Communication
 
@@ -69,3 +83,25 @@ If you encounter abusive behavior violating the [Ansible Code of Conduct](https:
     * other Matrix rooms or corresponding bridged Libera.Chat channels. See the [Ansible Communication Guide](https://docs.ansible.com/ansible/devel/community/communication.html) for details.
 
 For more information about communication, including how to join these channels, see the [Ansible communication guide](https://docs.ansible.com/ansible/devel/community/communication.html).
+
+## Releasing, versioning and deprecation
+
+> Please replace the content in the sub-sections below with information relevant to your project.
+
+> If you have the same information covered on the project docsite, please refer to the corresponding pages instead. 
+
+### Versioning specification
+
+To determine a software version number when releasing, this project uses the [Semantic Versioning Specification](https://semver.org/) to convey meaning about what has been modified from one version to the next.
+
+### Release policy & maintenance timeline
+
+> Describe your release policy and maintenance timeline in this section or refer to a corresponding docsite page.
+
+We maintain each major release version (1.x.y, 2.x.y,...) for two years after the next major version is released.
+
+Here is the table for the support timeline:
+
+- `1.x.y`: released 2020-11-17, EOL
+- `2.x.y`: released 2022-02-10, supported until 2025-06-09
+- `3.x.y`: released 2023-06-09, current
