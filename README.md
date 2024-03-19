@@ -56,7 +56,7 @@ To learn how to contribute to this project, see the [Contributor guidelines](htt
 
 ### Quick-start development guide
 
-> If the project doesn't have the guide, please add it to mitigate the entry threshold for rookies. If it's not applicable, remove the the section.
+> If the project doesn't have the guide, please add it to mitigate the entry threshold for new contributors. If it's not applicable, remove  the section.
 
 You have a fix and want to submit a ready-for-merge pull request? See the [Quickstart development guide](https://link-to-the-quide).
 
