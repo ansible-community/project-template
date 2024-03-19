@@ -54,6 +54,12 @@ If you want to report a bug or request a new feature, please:
 
 To learn how to contribute to this project, see the [Contributor guidelines](https://link-to-docsite-or-contributor.md).
 
+### Quick-start development guide
+
+> If the project doesn't have the guide, please add it to mitigate the entry threshold for rookies. If it's not applicable, remove the the section.
+
+You have a fix and want to submit a ready-for-merge pull request? See the [Quickstart development guide](https://link-to-the-quide).
+
 ## Communication
 
 > Fill up the following sub-sections with async and real-time channels relevant to your project. Please leave all non-project-specific links untouched.
@@ -105,3 +111,17 @@ Here is the table for the support timeline:
 - `1.x.y`: released 2020-11-17, EOL
 - `2.x.y`: released 2022-02-10, supported until 2025-06-09
 - `3.x.y`: released 2023-06-09, current
+
+### Release notes
+
+> Embed a link to a project changelog into here.
+
+For release notes, see the [changelog]().
+
+## Governance
+
+> Update this section with relevant information and URLs.
+
+The process of decision making in this project is based on discussing and finding consensus among participants.
+
+We, [Refer to your forum group here](https://forum.ansible.com/g/YOUR-GROUP), use [the forum](https://forum.ansible.com/tag/YOUR-TAG) posts tagged with `TAGNAME` for general announcements and discussions. If you have something on your mind, just create a [post](https://forum.ansible.com/new-topic?title=topic%20title&body=topic%20body&category=project&tags=YOUR-TAG) and let's find the best solution together!
