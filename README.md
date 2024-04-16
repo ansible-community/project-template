@@ -64,6 +64,8 @@ You have a fix and want to submit a ready-for-merge pull request? See the [Quick
 
 > Fill up the following sub-sections with async and real-time channels relevant to your project. Please leave all non-project-specific links untouched.
 
+> If your project has a docsite, this section should refer to a corresponding docsite section containing the below information as on the [docsite index template page](https://github.com/ansible-community/project-template/blob/main/docs/index.md).
+
 ### Asynchronous channels
 
 > If your project is not present on the Ansible forum yet, please [request](https://forum.ansible.com/t/requesting-a-forum-group/503/17) a forum group and a tag.

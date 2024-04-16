@@ -11,9 +11,13 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
 
 > Please have at least the following sections filled up with relevant information. Depending of your project complexity, you can add additional sections, for example, a separate Getting started guide and so on.
 
-## Community
+- [Community guide](community_guide.md)
 
-TODO: Add a communication guide link here when created. If a separate guide is an overkill for this particular project, invite people to join the Forum and Matrix, mention CoC. Encourage project maintainers to join the Forum and create a group.
+  - [Code of Conduct](community_guide.md#code-of-conduct)
+  - [Communication](community_guide.md#communication)
+
+    - [Asynchronous channels](community_guide.md#asynchronous-channels)
+    - [Real-time channels](community_guide.md#real-time-channels)
 
 ## Users
 
