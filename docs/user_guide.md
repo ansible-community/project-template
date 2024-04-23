@@ -12,7 +12,7 @@ Welcome to the PROJECTNAME Community Guide!
 
 ## Installation
 
-> Describe possible installation options for popular platforms here or refer to a separate [installation guide](installation.md).
+> Describe possible installation options for popular platforms here or refer to a separate [installation guide](installing.md).
 
 ## Next section
 
