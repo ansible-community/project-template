@@ -19,9 +19,12 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
     - [Asynchronous channels](community_guide.md#asynchronous-channels)
     - [Real-time channels](community_guide.md#real-time-channels)
 
-## Users
+- [User guide](user_guide.md)
 
-TODO: Add links to Getting started guide here, installation guide, user guide, scenarios, etc. if relevant with respect to the project scale/complexity.
+  - [Getting started](user_guide.md#getting-started)
+  - [Installation guide](user_guide.md#installation)
+  - [Next section](user_guide.md#next-section)
+  - [Feedback](user_guide.md#feedback)
 
 ## Contributors
 
