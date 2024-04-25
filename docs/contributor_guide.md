@@ -6,10 +6,47 @@ Welcome to the PROJECTNAME Contributor Guide!
 
 > In the following sections, if the content is as simple as a few lines, put it in there, otherwise create separate files and refer to them from the sections.
 
-## Next section
-
-TBD
-
 ## Communication
 
 Need help or want to share feedback? See the [Community guide](community_guide.md)!
+
+## Project's place in the Ansible ecosystem
+
+TBD
+
+## Non-code contributions
+
+### Contributing to documentation
+
+TBD
+
+### How to open an issue
+
+TBD
+
+### Reviewing open issues and pull requests
+
+TBD
+
+### Next section
+
+TBD
+
+## Code contributions
+
+### PROJECT Architecture
+
+TBD Maybe should be moved to a separate dev guide
+
+### Getting started
+
+TBD
+
+### Testing guide
+
+TBD
+
+### Next section
+
+TBD
+

@@ -6,6 +6,10 @@ Welcome to the PROJECTNAME User Guide!
 
 > In the following sections, if the content is as simple as a few lines, put it in there, otherwise create separate files and refer to them from the sections.
 
+## Communication
+
+Need help or want to share feedback? See the [Community guide](community_guide.md)!
+
 ## Getting started
 
 > Describe how to get started here or refer to a separate [Getting started guide](getting_started_user.md).
@@ -17,7 +21,3 @@ Welcome to the PROJECTNAME User Guide!
 ## Next section
 
 > Add as many sections as needed to cover all usage aspects.
-
-## Communication
-
-Need help or want to share feedback? See the [Community guide](community_guide.md)!
