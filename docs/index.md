@@ -26,9 +26,9 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
   - [Next section](user_guide.md#next-section)
   - [Feedback](user_guide.md#feedback)
 
-## Contributors
+- [Contributor guide](contributor_guide.md)
 
-TODO: Add links to Getting started guide, design/project architecture gude, testing guide, etc. if relevant with respect to the project scale/complexity.
+  - TBD
 
 ## Maintainers
 

@@ -1,6 +1,6 @@
 # User Guide
 
-Welcome to the PROJECTNAME Community Guide!
+Welcome to the PROJECTNAME User Guide!
 
 > If your project is not going to have a docsite (for example, if it is very simple to use), the following information should be present in your project README as in the [README template](https://github.com/ansible-community/project-template/blob/main/README.md).
 
@@ -18,6 +18,6 @@ Welcome to the PROJECTNAME Community Guide!
 
 > Add as many sections as needed to cover all usage aspects.
 
-## Feedback
+## Communication
 
 Need help or want to share feedback? See the [Community guide](community_guide.md)!
