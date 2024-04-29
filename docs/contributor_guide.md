@@ -12,21 +12,26 @@ Need help or want to share feedback? See the [Community guide](community_guide.m
 
 ## Project's place in the Ansible ecosystem
 
-TBD
+> Describe a project place in the Ansible ecosystem here. For example, the project can be a component of another project or serve as an auxiliary project.
+In case the project is a standalone self-sufficient tool, this section can be omitted.
 
 ## Non-code contributions
 
 ### Contributing to documentation
 
-TBD
+Improving the documentation is a great and easy way to contribute to PROJECTNAME. 
+
+> Describe how to contribute to the documentation or list references to separate documentation guidelines. Put a GitHub link to issues with documentation-related labels.
 
 ### How to open an issue
 
-TBD
+> Describe how to open an issue.
 
 ### Reviewing open issues and pull requests
 
-TBD
+Reviewing open issues and pull requests is a great way to contribute to PROJECTNAME.
+
+> Describe how to review issues/PRs. If you have committer guidelines/review checklist, list them here (see the [example](https://docs.ansible.com/ansible/devel/community/collection_contributors/collection_reviewing.html)).
 
 ### Next section
 
@@ -41,6 +46,7 @@ TBD Maybe should be moved to a separate dev guide
 ### Getting started
 
 TBD
+TBD: easyfix label link
 
 ### Testing guide
 
