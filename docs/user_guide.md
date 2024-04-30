@@ -21,3 +21,5 @@ Need help or want to share feedback? See the [Community guide](community_guide.m
 ## Next section
 
 > Add as many sections as needed to cover all usage aspects.
+
+> It is also encouraged to cover common use cases with [how-to guides](user_guide/how_to_xxx.md) and list them here.
