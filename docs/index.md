@@ -11,6 +11,7 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
 
 > Please have at least the following sections filled up with relevant information. Depending of your project complexity, you can add additional sections, for example, a separate Getting started guide and so on.
 
+- [License](LICENSE link here)
 - [Community guide](community_guide.md)
   - [Code of Conduct](community_guide.md#code-of-conduct)
   - [Communication](community_guide.md#communication)
