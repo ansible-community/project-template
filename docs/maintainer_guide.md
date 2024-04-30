@@ -36,11 +36,35 @@ In general, project maintainers:
 
 Multiple maintainers can divide responsibilities among each other.
 
+## Governance
+
+> Update this section with relevant information and URLs.
+
+The process of decision making in this project is based on discussing and finding consensus among participants.
+
+We, [Refer to your forum group here](https://forum.ansible.com/g/YOUR-GROUP), use [the forum](https://forum.ansible.com/tag/YOUR-TAG) posts tagged with `TAGNAME` for general announcements and discussions. If you have something on your mind, just create a [post](https://forum.ansible.com/new-topic?title=topic%20title&body=topic%20body&category=project&tags=YOUR-TAG) and let's find the best solution together!
+
 ## Releasing
 
-### Versioning and deprecation
+> Refer to this section from the project README.
 
-> Describe the versioning policy the project follows (such as [SemVer](https://semver.org/)). If defined, explain how often major, minor, and patch versions are released. Describe how deprecations are done. Put links to the changelog and roadmaps if relevant.
+### Versioning convention
+
+> Describe the versioning policy the project follows (such as [SemVer](https://semver.org/)).
+
+To determine a software version number when releasing, this project uses the [Semantic Versioning Specification](https://semver.org/) to convey meaning about what has been modified from one version to the next.
+
+### Release policy & maintenance timeline
+
+> Describe your release policy and maintenance timeline in this section or refer to a corresponding docsite page. Describe how deprecations are done. Put links to the changelog and roadmaps if relevant.
+
+We maintain each major release version (1.x.y, 2.x.y,...) for two years after the next major version is released.
+
+Here is the table for the support timeline:
+
+- `1.x.y`: released 2020-11-17, EOL
+- `2.x.y`: released 2022-02-10, supported until 2025-06-09
+- `3.x.y`: released 2023-06-09, current
 
 ### Conducting releases
 

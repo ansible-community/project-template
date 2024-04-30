@@ -7,14 +7,16 @@ A GitHub repository template for new Ansible projects.
 This template gives you the basic recommended (and in some instances required) files for your new Ansible community project.
 
 ## Template structure
+
 This template includes sample files for the following:
 - [README.md](README.md) - This file. It should describe the project and list the documentation site, when available, and how to reach the project team (Matrix room, if available and Ansible forum tags). 
 - [LICENSE.md](LICENSE.md) - The project license. We recommend GPLv3
-- [CONTRIBUTING.md](CONTRIBUTING.md) - The basics for contributing to your project
+- [CONTRIBUTING.md](CONTRIBUTING.md) - The basics for contributing to your project (if there's a docsite, refer to the docsite contributor guide from the file)
 - [SECURITY.md](SECURITY.md) - (optional) How to report security issues for your project
 - [CODE-OF-CONDUCT.md](CODE-OF-CONDUCT.md) - A link to the Ansible code of conduct. Do not change this.
 
 ## Contributing to this template
+
 You can open a GitHub issue to request changes or directly open a PR for small changes or enhancements.
 
 # README.md template
@@ -54,11 +56,11 @@ If you want to report a bug or request a new feature, please:
 
 To learn how to contribute to this project, see the [Contributor guidelines](https://link-to-docsite-or-contributor.md).
 
-### Quick-start development guide
+### Getting started development guide
 
 > If the project doesn't have the guide, please add it to mitigate the entry threshold for new contributors. If it's not applicable, remove  the section.
 
-You have a fix and want to submit a ready-for-merge pull request? See the [Quickstart development guide](https://link-to-the-quide).
+You have a fix and want to submit a ready-for-merge pull request? See the [Getting started development guide](https://link-to-the-quide).
 
 ## Communication
 
@@ -92,11 +94,11 @@ You have a fix and want to submit a ready-for-merge pull request? See the [Quick
 
 For more information about communication, including how to join these channels, see the [Ansible communication guide](https://docs.ansible.com/ansible/devel/community/communication.html).
 
-## Releasing, versioning and deprecation
+## Releasing
 
 > Please replace the content in the sub-sections below with information relevant to your project.
 
-> If you have the same information covered on the project docsite, please refer to the corresponding pages instead. 
+> If you have the same information covered on the project docsite, refer to the corresponding docsite pages instead. 
 
 ### Versioning specification
 
@@ -122,7 +124,7 @@ For release notes, see the [changelog]().
 
 ## Governance
 
-> Update this section with relevant information and URLs.
+> Update this section with relevant information and URLs. If the project has a docsite, have this information there.
 
 The process of decision making in this project is based on discussing and finding consensus among participants.
 
