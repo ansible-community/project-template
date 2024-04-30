@@ -12,23 +12,29 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
 > Please have at least the following sections filled up with relevant information. Depending of your project complexity, you can add additional sections, for example, a separate Getting started guide and so on.
 
 - [Community guide](community_guide.md)
-
   - [Code of Conduct](community_guide.md#code-of-conduct)
   - [Communication](community_guide.md#communication)
-
     - [Asynchronous channels](community_guide.md#asynchronous-channels)
     - [Real-time channels](community_guide.md#real-time-channels)
 
 - [User guide](user_guide.md)
-
+  - [Communication](user_guide.md#communication)
   - [Getting started](user_guide.md#getting-started)
   - [Installation guide](user_guide.md#installation)
   - [Next section](user_guide.md#next-section)
-  - [Feedback](user_guide.md#feedback)
 
 - [Contributor guide](contributor_guide.md)
-
-  - TBD
+  - [Communication](contributor_guide.md#communication)
+  - [Project place in Ansible ecosystem](contributor_guide.md#project-place-in-ansible-ecosystem)
+  - [Non-code contributions](contributor_guide.md#non-code-contributions)
+    - [Ask and answer questions](contributor_guide.md#ask-and-answer-questions)
+    - [Contributing to documentation](contributor_guide.md#contributing-to-documentation)
+    - [How to open an issue](contributor_guide.md#how-to-open-an-issue)
+  - [Code contributions](contributor_guide.md#code-contributions)
+    - [Project architecture](contributor_guide.md#project-architecture)
+    - [Getting started](contributor_guide.md#getting-started)
+    - [Testing](contributor_guide.md#testing)
+    - [Reviewing open issues and pull requests](contributor_guide.md#reviewing-open-issues-and-pull-requests)
 
 ## Maintainers
 
