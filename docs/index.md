@@ -36,10 +36,15 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
     - [Testing](contributor_guide.md#testing)
     - [Reviewing open issues and pull requests](contributor_guide.md#reviewing-open-issues-and-pull-requests)
 
-## Maintainers
-
-TODO: Add links to Maintainer guidelines if relevant with respect to the project scale/complexity.
+- [Maintainer guide](maintainer_guide.md)
+  - [Communication](maintainer_guide.md#communication)
+  - [How to become a maintainer](maintainer_guide.md#how-to-become-a-maintainer)
+  - [Maintainer responsibilities](maintainer_guide.md#maintainer-responsibilities)
+  - [Releasing](maintainer_guide.md#releasing)
+    - [Versioning and deprecation](maintainer_guide.md#versioning-and-deprecation)
+    - [Conducting releases](maintainer_guide.md#conducting-releases)
+  - [Stepping down as a maintainer](maintainer_guide.md#stepping-down-as-a-maintainer)
 
 ## Reference and other information not belonging to the above sections
 
-TODO: Release notes, FAQ, links to related projects, etc.
+> Links to release notes, FAQ, links to related projects, etc.
