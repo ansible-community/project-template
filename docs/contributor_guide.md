@@ -37,7 +37,7 @@ If you want to report a bug or request a new feature:
 
 ## Code contributions
 
-> Consider having a separate code contributions guide and a link to it from here.
+> Consider having a separate code contributor guide and a link to it from here.
 
 ### Project architecture
 
