@@ -26,7 +26,7 @@ In general, project maintainers:
 
 - Act in accordance with the [Community Code of Conduct](link-to-CoC-here).
 - Track activities in the repository (click `Watch` > `All activity` in GitHub).
-- Keep README, development guidelines, and other general project documentation relevant.
+- Keep READMEs, development guidelines, and other general project documentation relevant.
 - Review and commit changes made by other contributors.
 - Backport changes to supported branches.
 - Address or assign issues to appropriate contributors.
