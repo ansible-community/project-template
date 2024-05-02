@@ -45,9 +45,9 @@ If you want to report a bug or request a new feature:
 
 ### Getting started
 
-> Create the `easyfix` label in the repository and mark issues that are easy to fix for newcomers.
+> Mark issues that are easy to fix for newcomers with the `good first issue` label.
 
-If you have no specific idea for contribution, please take a look at the [easyfix issues](https://github.com/ORG/REPO/labels/easyfix).
+If you have no specific idea for contribution, please take a look at the [good first issues](https://github.com/ORG/REPO/labels/good%20first%20issue).
 
 > Create a simple and consistent getting started development guide that includes all a person needs to know to make their first contribution from forking the repo and setting up a development environment to running tests and submitting a pull request. See the [Creating your first collection pull request](https://docs.ansible.com/ansible/devel/community/create_pr_quick_start.html) guide as an example.
 
