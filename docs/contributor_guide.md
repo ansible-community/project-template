@@ -57,6 +57,6 @@ If you have no specific idea for contribution, please take a look at the [easyfi
 
 ### Reviewing open issues and pull requests
 
-Reviewing open issues and pull requests is a great way to contribute to PROJECTNAME. Even if you have no coding experience, you can share your opinion on requested features/their implementations from user's perspective.
+Reviewing open issues and pull requests is a great way to contribute to PROJECTNAME. Even if you have no coding experience, you can share your opinion on requested features/their implementations from a user's perspective.
 
 > Describe how to review issues/PRs. If you have committer guidelines/review checklist, list them here (see the [example](https://docs.ansible.com/ansible/devel/community/collection_contributors/collection_reviewing.html)).
