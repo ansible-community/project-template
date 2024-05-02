@@ -2,7 +2,7 @@
 
 Welcome to the PROJECTNAME Contributor guide!
 
-> If your project is not going to have a docsite (in case it is very simple and having a docsite would be an overkill), the following information should be present in your project CONTRIBUTING.md file and referred to from the [README template](https://github.com/ansible-community/project-template/blob/main/README.md).
+> If your project is not going to have a docsite (in case it is very simple and a docsite would be overkill), the following information should be present in your project CONTRIBUTING.md file and referred to from the [README template](https://github.com/ansible-community/project-template/blob/main/README.md).
 
 > In the following sections, if the content is as simple as a few lines, put it in there, otherwise create separate files and refer to them from the sections. Add other sections if needed.
 
