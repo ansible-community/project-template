@@ -46,3 +46,5 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
 ## Reference and other information not belonging to the above sections
 
 > Links to release notes, FAQ, links to related projects, etc.
+
+- [Command reference](references/cli.md): supported programmatic options and expected behavior.
