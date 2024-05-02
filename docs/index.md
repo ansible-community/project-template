@@ -9,7 +9,7 @@ We welcome members from all skill levels to participate actively in our open, in
 Whether you are an expert or just beginning your journey with Ansible and `PROJECT_NAME`,
 you are encouraged to contribute, share insights, and collaborate with fellow enthusiasts!
 
-> Please have at least the following sections filled up with relevant information. Depending of your project complexity, you can add additional sections, for example, a separate Getting started guide and so on.
+> Please have at least the following sections populated with relevant information. Depending of your project complexity, you can add additional sections; for example, a separate Getting started guide and so on.
 
 - [License](LICENSE link here)
 - [Community guide](community_guide.md)
