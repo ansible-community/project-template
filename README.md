@@ -60,7 +60,7 @@ To learn how to contribute to this project, see the [Contributor guidelines](htt
 
 > If the project doesn't have the guide, please add it to mitigate the entry threshold for new contributors. If it's not applicable, remove  the section.
 
-You have a fix and want to submit a ready-for-merge pull request? See the [Getting started development guide](https://link-to-the-quide).
+Do you have a fix and want to submit a ready-for-merge pull request? See the [Getting started development guide](https://link-to-the-quide).
 
 ## Communication
 
