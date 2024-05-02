@@ -11,7 +11,7 @@ This template gives you the basic recommended (and in some instances required) f
 This template includes sample files for the following:
 - [README.md](README.md) - This file. It should describe the project and list the documentation site, when available, and how to reach the project team (Matrix room, if available and Ansible forum tags). 
 - [LICENSE.md](LICENSE.md) - The project license. We recommend GPLv3
-- [CONTRIBUTING.md](CONTRIBUTING.md) - The basics for contributing to your project (if there's a docsite, refer to the docsite contributor guide from the file)
+- [CONTRIBUTING.md](CONTRIBUTING.md) - The basics for contributing to your project. If your project has a docsite, refer to the docsite contributor guide from this CONTRIBUTING.md file.
 - [SECURITY.md](SECURITY.md) - (optional) How to report security issues for your project
 - [CODE-OF-CONDUCT.md](CODE-OF-CONDUCT.md) - A link to the Ansible code of conduct. Do not change this.
 
