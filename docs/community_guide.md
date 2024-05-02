@@ -6,8 +6,6 @@ Welcome to the PROJECTNAME Community Guide!
 
 ## Code of Conduct
 
-> If your project does not belong to Red Hat GitHub orgs, refer to a CoC violation complaint raising mechanism relevant to your project.
-
 We follow the [Ansible Code of Conduct](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html) in all our interactions within this project.
 
 If you encounter abusive behavior violating the Code of Conduct, please refer to the [policy violations](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html#policy-violations) section of the document for information on how to raise a complaint.
