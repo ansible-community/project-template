@@ -124,7 +124,7 @@ For release notes, see the [changelog]().
 
 ## Governance
 
-> Update this section with relevant information and URLs. If the project has a docsite, have this information there.
+> Update this section with relevant information and URLs. If the project has a docsite, include this information in the docsite.
 
 The process of decision making in this project is based on discussing and finding consensus among participants.
 
