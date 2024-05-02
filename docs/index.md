@@ -19,13 +19,11 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
     - [Real-time channels](community_guide.md#real-time-channels)
 
 - [User guide](user_guide.md)
-  - [Communication](user_guide.md#communication)
   - [Getting started](user_guide.md#getting-started)
   - [Installation guide](user_guide.md#installation)
   - [Next section](user_guide.md#next-section)
 
 - [Contributor guide](contributor_guide.md)
-  - [Communication](contributor_guide.md#communication)
   - [Project place in Ansible ecosystem](contributor_guide.md#project-place-in-ansible-ecosystem)
   - [Non-code contributions](contributor_guide.md#non-code-contributions)
     - [Ask and answer questions](contributor_guide.md#ask-and-answer-questions)
@@ -38,7 +36,6 @@ you are encouraged to contribute, share insights, and collaborate with fellow en
     - [Reviewing open issues and pull requests](contributor_guide.md#reviewing-open-issues-and-pull-requests)
 
 - [Maintainer guide](maintainer_guide.md)
-  - [Communication](maintainer_guide.md#communication)
   - [How to become a maintainer](maintainer_guide.md#how-to-become-a-maintainer)
   - [Maintainer responsibilities](maintainer_guide.md#maintainer-responsibilities)
   - [Releasing](maintainer_guide.md#releasing)
