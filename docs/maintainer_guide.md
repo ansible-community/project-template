@@ -31,7 +31,7 @@ In general, project maintainers:
 - Backport changes to supported branches.
 - Address or assign issues to appropriate contributors.
 - Release the project.
-- Represent the project in the community and in inter-project communication.
+- Represent the project in the community and inter-project communication.
 - Build a healthy community to increase the number of active contributors and maintainers around collections.
 
 Multiple maintainers can divide responsibilities among each other.
