@@ -8,16 +8,6 @@ Welcome to the PROJECTNAME Maintainer guide!
 
 > In the following sections, if the content is as simple as a few lines, put it in there, otherwise create separate files and refer to them from the sections. Add other sections if needed.
 
-## Communication
-
-Have questions or want to share feedback? See the [Community guide](community_guide.md)!
-
-## How to become a maintainer
-
-A PROJECTNAME maintainer is a contributor trusted by the community who makes significant and regular contributions to the project and who has shown themselves as a specialist in the related area. The maintainers have extended permissions in the project repository.
-
-A person interested in becoming a maintainer and satisfying the requirements may either self-nominate or be nominated by another maintainer. To nominate a candidate, create a GitHub issue in the relevant collection repository.
-
 ## Maintainer responsibilities
 
 Project maintainers provide feedback, responses, or actions on pull requests or issues in a reasonably timely manner. They can also update the project contributor and maintainer guidelines, in collaboration with the PROJECTNAME community and the other maintainers of the project.
@@ -35,6 +25,12 @@ In general, project maintainers:
 - Build a healthy community to increase the number of active contributors and maintainers around collections.
 
 Multiple maintainers can divide responsibilities among each other.
+
+## How to become a maintainer
+
+A PROJECTNAME maintainer is a contributor trusted by the community who makes significant and regular contributions to the project and who has shown themselves as a specialist in the related area. The maintainers have extended permissions in the project repository.
+
+A person interested in becoming a maintainer and satisfying the requirements may either self-nominate or be nominated by another maintainer. To nominate a candidate, create a GitHub issue in the relevant collection repository.
 
 ## Governance
 

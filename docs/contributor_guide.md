@@ -6,10 +6,6 @@ Welcome to the PROJECTNAME Contributor guide!
 
 > In the following sections, if the content is as simple as a few lines, include it in the section. Otherwise create separate files and refer to them from the sections. Add other sections if needed.
 
-## Communication
-
-Need help or want to share feedback? See the [Community guide](community_guide.md)!
-
 ## Project place in the Ansible ecosystem
 
 > Describe a project place in the Ansible ecosystem here. For example, the project can be a component of another project or serve as an auxiliary project.

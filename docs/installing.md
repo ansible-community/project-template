@@ -6,13 +6,7 @@ Welcome to the PROJECTNAME Installation Guide!
 
 > Describe possible installation options for popular platforms in corresponding sections when relevant. Add relevant and remove irrelevant sections as required.
 
-## Communication
-
-Need help or want to share feedback? See the [Community guide](community_guide.md)!
-
 ## Install with pip
-
-## Install with distribution package manager
 
 ## Install from source
 
