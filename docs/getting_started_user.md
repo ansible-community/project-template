@@ -14,4 +14,6 @@ pip install PROJECTNAME
 
 4. Verify step
 
-Now you've completed your first task with PROJECTNAME.
+Now you've completed your first task with PROJECTNAME!
+
+> Add links here to what to logically read next.
