@@ -12,7 +12,7 @@ theme:
 nav:
   - index.md
   - installing.md
-  - getting_started.md
+  - getting_started_user.md
   - User Guide:
     - user_guide/how_to_xxx.md
   - References:
