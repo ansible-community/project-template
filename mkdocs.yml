@@ -1,5 +1,5 @@
 ---
-site_name: Ansible PROJECTNAME documentation
+site_name: Ansible project template
 site_url: https://ansible.readthedocs.io/PROJECTNAME
 repo_url: https://github.com/ansible/PROJECTNAME
 edit_uri: blob/main/docs/
@@ -11,8 +11,8 @@ theme:
 
 nav:
   - index.md
-  - installing.md
   - getting_started_user.md
+  - installing.md
   - User Guide:
     - user_guide/how_to_xxx.md
   - References:
