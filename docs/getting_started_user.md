@@ -7,7 +7,7 @@ Users should be able to complete the steps in approximately five minutes.
 Your project's getting started guide should give users a first quick success.
 In general, user should install the project, quickly verify the installation, and run one or two commands.
 The commands in your project's getting started guide should do something basic but illustrate your project's core functionality.
-If appropriate, consider provide sample configuration values and artifacts that allow users to run code locally.
+If appropriate, consider providing sample configuration values and artifacts that allow users to run code locally.
 
 > The following steps are intended to give an idea of a reasonable getting started guide with an example project named "ansible-project".
 
