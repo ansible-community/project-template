@@ -1,6 +1,6 @@
 # Ansible project documentation
 
-> Your feedback is very welcome! Please help us improve the docsite template by opening an issue or submitting a pull request in [its repository](https://github.com/ansible-community/project-template).
+> Your feedback is very welcome! Please help us improve the docsite template by opening an issue or submitting a pull request in [the project's repository](https://github.com/ansible-community/project-template).
 
 > After you define the exact structure of the project's docsite, update `mkdocs.yml` file in the root directory correspondingly.
 
