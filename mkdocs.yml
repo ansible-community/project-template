@@ -1,4 +1,7 @@
 ---
+# Replace the fields below with relevant information.
+# See https://www.mkdocs.org/user-guide/configuration/
+# to learn more about the configuration options.
 site_name: Ansible project template
 site_url: https://ansible.readthedocs.io/PROJECTNAME
 repo_url: https://github.com/ansible-community/project-template
@@ -40,5 +43,3 @@ nav:
     - 'maintainer_guide.md#stepping-down-as-a-maintaine'
   - References:
     - 'references/cli.md'
-
-# See https://www.mkdocs.org/user-guide/configuration/ for more information
