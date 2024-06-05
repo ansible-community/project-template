@@ -1,24 +1,23 @@
 ---
+# Replace the fields below with relevant information.
+# See https://www.mkdocs.org/user-guide/configuration/
+# to learn more about the configuration options.
 site_name: Ansible project template
 site_url: https://ansible.readthedocs.io/PROJECTNAME
-repo_url: https://github.com/ansible/PROJECTNAME
+repo_url: https://github.com/ansible-community/project-template
 edit_uri: blob/main/docs/
 docs_dir: docs
 strict: true
 
 theme:
-  name: "ansible"
+  name: 'ansible'
 
 nav:
-  - index.md
-  - getting_started_user.md
-  - installing.md
-  - User Guide:
-    - user_guide/how_to_xxx.md
+  - Home: 'index.md'
+  - 'License': 'license.md'
+  - 'community_guide.md'
+  - 'user_guide.md'
+  - 'contributor_guide.md'
+  - 'maintainer_guide.md'
   - References:
-    - references/cli.md
-    - references/porting_guide.md
-    - references/roadmap.md
-
-
-#see mkdocs for other optional extensions
+    - 'references/cli.md'

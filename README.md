@@ -9,6 +9,7 @@ This template gives you the basic recommended (and in some instances required) f
 ## Template structure
 
 This template includes sample files for the following:
+- [Content in docs/](https://github.com/ansible-community/project-template/tree/main/docs) - A docsite template for your project that you are encouraged to use to provide a consistent experience to users and contributors across Ansible ecosystem projects. A website built from this template with [mkdocs](https://www.mkdocs.org/) is available on [ReadTheDocs](https://ansible.readthedocs.io/projects/ansible-project-template/en/latest/).
 - [README.md](README.md) - This file. It should describe the project and list the documentation site, when available, and how to reach the project team (Matrix room, if available and Ansible forum tags). 
 - [LICENSE.md](LICENSE.md) - The project license. We recommend GPLv3
 - [CONTRIBUTING.md](CONTRIBUTING.md) - The basics for contributing to your project. If your project has a docsite, refer to the docsite contributor guide from this CONTRIBUTING.md file.
