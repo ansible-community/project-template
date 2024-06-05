@@ -15,4 +15,4 @@ We welcome members from all skill levels to participate actively in our open, in
 Whether you are an expert or just beginning your journey with Ansible and `PROJECT_NAME`,
 you are encouraged to contribute, share insights, and collaborate with fellow enthusiasts!
 
-> Please take a look at the sections listed in the `mkdocs.yml` file in the root directory and populate them with relevant information. Depending of your project complexity, you can add additional sections; for example, a separate Getting started guide and so on.
+> Please take a look at the files in the [docs](https://github.com/ansible-community/project-template/tree/main/docs) directory and populate them with relevant information. Depending of your project complexity, you can add additional sections; for example, a separate Getting started guide and so on.
