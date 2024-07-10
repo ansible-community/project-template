@@ -92,7 +92,6 @@ Do you have a fix and want to submit a ready-for-merge pull request? See the [Ge
     * [#users:ansible.com](https://matrix.to/#/#users:ansible.com): general use questions and support.
     * [#social:ansible.com](https://matrix.to/#/#social:ansible.com): say hello or share a funny joke and let's laugh together;)
     * [#ansible-community:ansible.com](https://matrix.to/#/#community:ansible.com): community and collection development questions.
-    * other Matrix rooms or corresponding bridged Libera.Chat channels. See the [Ansible Communication Guide](https://docs.ansible.com/ansible/devel/community/communication.html) for details.
 
 For more information about communication, including how to join these channels, see the [Ansible communication guide](https://docs.ansible.com/ansible/devel/community/communication.html).
 
