@@ -1,4 +1,5 @@
 # project-template
+
 [![Discuss on Matrix at #community:ansible.com](https://img.shields.io/matrix/community:ansible.com.svg?server_fqdn=ansible-accounts.ems.host&label=Discuss%20on%20Matrix%20at%20%23community:ansible.com&logo=matrix)](https://matrix.to/#/#community:ansible.com)
 [![Codecov badge](https://img.shields.io/codecov/c/github/ansible-community/project-template)](https://codecov.io/gh/ansible-community/project-template)
 
@@ -9,8 +10,9 @@ This template gives you the basic recommended (and in some instances required) f
 ## Template structure
 
 This template includes sample files for the following:
+
 - [Content in docs/](https://github.com/ansible-community/project-template/tree/main/docs) - A docsite template for your project that you are encouraged to use to provide a consistent experience to users and contributors across Ansible ecosystem projects. A website built from this template with [mkdocs](https://www.mkdocs.org/) is available on [ReadTheDocs](https://ansible.readthedocs.io/projects/ansible-project-template/en/latest/).
-- [README.md](README.md) - This file. It should describe the project and list the documentation site, when available, and how to reach the project team (Matrix room, if available and Ansible forum tags). 
+- [README.md](README.md) - This file. It should describe the project and list the documentation site, when available, and how to reach the project team (Matrix room, if available and Ansible forum tags).
 - [LICENSE.md](LICENSE.md) - The project license. We recommend GPLv3.
 - [CONTRIBUTING.md](CONTRIBUTING.md) - The basics for contributing to your project. If your project has a docsite, refer to the docsite contributor guide from this CONTRIBUTING.md file.
 - [SECURITY.md](SECURITY.md) - (optional) How to report security issues for your project.
@@ -21,7 +23,7 @@ This template includes sample files for the following:
 
 You can open a GitHub issue to request changes or directly open a PR for small changes or enhancements.
 
-# README.md template
+## README.md template
 
 > Make sure the following sections are present in your project's `README.md`
 
@@ -47,16 +49,16 @@ If you encounter abusive behavior violating the [Ansible Code of Conduct](https:
 ## Communication
 
 > If your project has a docsite, this section should refer to a corresponding docsite section that contains the following information as on the [docsite index template page](https://github.com/ansible-community/project-template/blob/main/docs/index.md).
-
 > If your project is not present on the Ansible forum yet, please check out the existing [tags](https://forum.ansible.com/tags) and [groups](https://forum.ansible.com/g) - use what suits the project. If there is no appropritate tag and group yet, please [request one](https://forum.ansible.com/t/requesting-a-forum-group/503/17).
 
-* Join the Ansible forum:
-  * [Get Help](https://forum.ansible.com/c/help/6): get help or help others. Please add appropriate tags if you start new discussions, for example the `YOUR TAG` tag.
-  * [Posts tagged with 'your tag'](https://forum.ansible.com/tag/YOUR_TAG): subscribe to participate in project/technology-related conversations.
-  * [Refer to your forum group here if exists](https://forum.ansible.com/g/): by joining the team you will automatically get subscribed to the posts tagged with [your group forum tag here](https://forum.ansible.com/tags).
-  * [Bullhorn newsletter](https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn): used to announce releases and important changes.
-  * [Social Spaces](https://forum.ansible.com/c/chat/4): gather and interact with fellow enthusiasts.
-  * [News & Announcements](https://forum.ansible.com/c/news/5): track project-wide announcements including social events.
+Join the Ansible forum:
+
+- [Get Help](https://forum.ansible.com/c/help/6): get help or help others. Please add appropriate tags if you start new discussions, for example the `YOUR TAG` tag.
+- [Posts tagged with 'your tag'](https://forum.ansible.com/tag/YOUR_TAG): subscribe to participate in project/technology-related conversations.
+- [Refer to your forum group here if exists](https://forum.ansible.com/g/): by joining the team you will automatically get subscribed to the posts tagged with [your group forum tag here](https://forum.ansible.com/tags).
+- [Bullhorn newsletter](https://docs.ansible.com/ansible/devel/community/communication.html#the-bullhorn): used to announce releases and important changes.
+- [Social Spaces](https://forum.ansible.com/c/chat/4): gather and interact with fellow enthusiasts.
+- [News & Announcements](https://forum.ansible.com/c/news/5): track project-wide announcements including social events.
 
 For more information about communication, see the [Ansible communication guide](https://docs.ansible.com/ansible/devel/community/communication.html).
 
@@ -65,6 +67,7 @@ For more information about communication, see the [Ansible communication guide](
 ### How to open an issue
 
 If you want to report a bug or request a new feature, please:
+
 1. Search in the [issues](https://github.com/ORG/REPO/issues) for similar reports/requests.
 2. If there are already no such issues, open a new one by clicking the `New issue` button.
 
@@ -83,8 +86,7 @@ Do you have a fix and want to submit a ready-for-merge pull request? See the [Ge
 ## Releasing
 
 > Please replace the content in the sub-sections below with information relevant to your project.
-
-> If you have the same information covered on the project docsite, refer to the corresponding docsite pages instead. 
+> If you have the same information covered on the project docsite, refer to the corresponding docsite pages instead.
 
 ### Versioning specification
 
@@ -106,7 +108,7 @@ Here is the table for the support timeline:
 
 > Embed a link to a project changelog into here.
 
-For release notes, see the [changelog]().
+For release notes, see the [changelog](link_to_changelog).
 
 ## Governance
 
