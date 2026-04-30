@@ -38,13 +38,15 @@ We welcome members from all skill levels to participate actively in our open, in
 Whether you are an expert or just beginning your journey with Ansible and `your project name`,
 you are encouraged to contribute, share insights, and collaborate with fellow enthusiasts!
 
-## Code of Conduct
+## Community standards
 
 > If your project doesn't belong to GitHub orgs controlled by Red Hat, refer to a CoC violation complaint raising mechanism relevant to your project.
+> If your project has its own AI policy, please refer to it in this section instead of the one below.
 
-We follow the [Ansible Code of Conduct](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html) in all our interactions within this project.
+This project abides by the following policies:
 
-If you encounter abusive behavior violating the [Ansible Code of Conduct](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html), please refer to the [policy violations](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html#policy-violations) section of the Code of Conduct for information on how to raise a complaint.
+* [Ansible Code of Conduct](https://docs.ansible.com/projects/ansible/devel/community/code_of_conduct.html)
+* [Ansible Community Policy for AI-Assisted Contributions](https://docs.ansible.com/projects/ansible/devel/community/ai_policy.html)
 
 ## Communication
 
