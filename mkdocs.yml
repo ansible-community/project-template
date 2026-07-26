@@ -11,13 +11,28 @@ strict: true
 
 theme:
   name: 'ansible'
+  features:
+    - content.code.copy
+    - content.action.edit
+    - navigation.expand
+    - navigation.sections
+    - navigation.instant
+    - navigation.indexes
+    - navigation.tracking
+    - toc.integrate
 
 nav:
   - Home: 'index.md'
-  - 'License': 'license.md'
-  - 'community_guide.md'
-  - 'user_guide.md'
+  - Installation: 'installing.md'
+  - Getting started: 'getting_started_user.md'
+  - User guide:
+    - 'user_guide.md'
+    - 'user_guide/how_to_xxx.md'
   - 'contributor_guide.md'
   - 'maintainer_guide.md'
+  - 'community_guide.md'
   - References:
     - 'references/cli.md'
+    - 'references/porting_guide.md'
+    - 'references/roadmap.md'
+  - 'License': 'license.md'
